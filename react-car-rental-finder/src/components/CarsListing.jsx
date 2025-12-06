@@ -47,4 +47,4 @@ const CarsListing = ({ isHome = false }) => {
   );
 };
 
-export default CarsListing;
+export default CarsListing

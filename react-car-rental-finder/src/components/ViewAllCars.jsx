@@ -16,4 +16,4 @@ const ViewAllCars = () => {
   );
 };
 
-export default ViewAllCars;
+export default ViewAllCars

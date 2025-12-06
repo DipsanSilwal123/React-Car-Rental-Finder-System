@@ -45,4 +45,4 @@ const HomeCards = () => {
   );
 };
 
-export default HomeCards;
+export default HomeCards

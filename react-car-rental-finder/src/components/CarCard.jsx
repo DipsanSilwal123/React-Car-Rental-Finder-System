@@ -58,4 +58,4 @@ const CarCard = ({ car }) => {
   );
 };
 
-export default CarCard;
+export default CarCard

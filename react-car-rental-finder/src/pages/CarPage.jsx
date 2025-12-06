@@ -149,4 +149,4 @@ const carLoader = async ({ params }) => {
   return res.json();
 };
 
-export { CarPage as default, carLoader };
+export { CarPage as default, carLoader }

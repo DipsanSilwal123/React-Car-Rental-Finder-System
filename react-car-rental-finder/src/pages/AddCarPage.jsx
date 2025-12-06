@@ -259,4 +259,4 @@ const AddCarPage = ({ addCarSubmit }) => {
   );
 };
 
-export default AddCarPage;
+export default AddCarPage

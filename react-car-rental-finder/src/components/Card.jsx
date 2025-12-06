@@ -16,4 +16,4 @@ const Card = ({ children, variant = 'light' }) => {
   );
 };
 
-export default Card;
+export default Card

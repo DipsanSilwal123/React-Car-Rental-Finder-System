@@ -278,4 +278,4 @@ const EditCarPage = ({ updateCarSubmit }) => {
   );
 };
 
-export default EditCarPage;
+export default EditCarPage
