@@ -1,0 +1,289 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Toyota Camry",
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "description": "A reliable and comfortable mid-size sedan, ideal for city commutes and long highway drives. Equipped with advanced safety features, premium interior, and excellent fuel efficiency.",
+      "location": "Boston, MA",
+      "price": 70,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "28 MPG",
+      "year": 2022,
+      "company": {
+        "name": "NewTek Rentals",
+        "description": "NewTek Rentals provides a wide range of vehicles in Boston with a focus on safety, reliability, and customer satisfaction.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Honda Civic",
+      "type": "Sedan",
+      "transmission": "Manual",
+      "description": "A compact car known for its excellent fuel efficiency and smooth handling. Perfect for city commutes and short trips, with comfortable seating and a modern dashboard.",
+      "location": "Miami, FL",
+      "price": 65,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "32 MPG",
+      "year": 2021,
+      "company": {
+        "name": "Veneer Car Rentals",
+        "description": "Veneer Car Rentals specializes in compact and mid-size vehicles for everyday commuting or leisure trips.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Ford Explorer",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "description": "A spacious SUV perfect for family trips, long drives, and outdoor adventures. Offers advanced safety features, a comfortable cabin, and powerful performance for all terrains.",
+      "location": "Brooklyn, NY",
+      "price": 90,
+      "fuel": "Diesel",
+      "seats": 7,
+      "mileage": "22 MPG",
+      "year": 2023,
+      "company": {
+        "name": "Dolor Rentals",
+        "description": "Dolor Rentals offers premium SUVs with professional service for city and off-road adventures.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Chevrolet Bolt",
+      "type": "Electric",
+      "transmission": "Automatic",
+      "description": "An electric hatchback perfect for eco-friendly city travel. Equipped with advanced battery technology, fast charging, and a modern infotainment system.",
+      "location": "Phoenix, AZ",
+      "price": 75,
+      "fuel": "Electric",
+      "seats": 4,
+      "mileage": "100 MPGe",
+      "year": 2022,
+      "company": {
+        "name": "Alpha Car Rentals",
+        "description": "Alpha Car Rentals specializes in electric and hybrid vehicles for sustainable travel options.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "name": "BMW X5",
+      "type": "Luxury",
+      "transmission": "Automatic",
+      "description": "A premium luxury SUV with leather interior, advanced safety technology, and smooth performance. Ideal for executive travel and long weekend trips.",
+      "location": "Atlanta, GA",
+      "price": 150,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "20 MPG",
+      "year": 2023,
+      "company": {
+        "name": "Browning Car Rentals",
+        "description": "Browning Car Rentals offers high-end luxury vehicles for premium customer experiences.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Tesla Model 3",
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "description": "Fully electric sedan with autopilot capabilities, long-range battery, premium interior, and cutting-edge technology for sustainable travel.",
+      "location": "Portland, OR",
+      "price": 120,
+      "fuel": "Electric",
+      "seats": 5,
+      "mileage": "120 MPGe",
+      "year": 2023,
+      "company": {
+        "name": "Port Rentals",
+        "description": "Port Rentals provides high-tech electric vehicles for modern and eco-friendly travel.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Mercedes C-Class",
+      "type": "Luxury",
+      "transmission": "Automatic",
+      "description": "A luxury sedan featuring an elegant interior, advanced driver assistance systems, and a smooth, quiet ride. Ideal for business travel or special occasions.",
+      "location": "New York, NY",
+      "price": 160,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "25 MPG",
+      "year": 2023,
+      "company": {
+        "name": "Elite Car Rentals",
+        "description": "Elite Car Rentals offers top-of-the-line luxury vehicles for exclusive travel experiences.",
+        "contactEmail": "contact@elitecarrentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Nissan Rogue",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "description": "A comfortable and versatile SUV with ample cargo space and modern technology, perfect for family trips or long drives.",
+      "location": "Chicago, IL",
+      "price": 85,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "27 MPG",
+      "year": 2022,
+      "company": {
+        "name": "Windy City Rentals",
+        "description": "Windy City Rentals offers reliable SUVs and family vehicles for convenient travel.",
+        "contactEmail": "contact@windycityrentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Audi e-tron",
+      "type": "Electric",
+      "transmission": "Automatic",
+      "description": "Luxury electric SUV with long-range battery, high-tech interior, and premium comfort. Designed for eco-conscious drivers seeking performance and style.",
+      "location": "San Francisco, CA",
+      "price": 180,
+      "fuel": "Electric",
+      "seats": 5,
+      "mileage": "110 MPGe",
+      "year": 2023,
+      "company": {
+        "name": "Bay Area Rentals",
+        "description": "Bay Area Rentals specializes in premium electric and hybrid vehicles for sustainable urban travel.",
+        "contactEmail": "contact@bayarearentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Hyundai Elantra",
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "description": "Reliable and fuel-efficient compact sedan, equipped with modern technology, safety features, and comfortable seating for everyday driving.",
+      "location": "Seattle, WA",
+      "price": 60,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "33 MPG",
+      "year": 2022,
+      "company": {
+        "name": "Emerald Rentals",
+        "description": "Emerald Rentals offers a wide selection of compact and mid-size cars for daily and long-distance travel.",
+        "contactEmail": "contact@emeraldrentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Jeep Wrangler",
+      "type": "SUV",
+      "transmission": "Manual",
+      "description": "A rugged SUV built for off-road adventures. Offers 4-wheel drive, durable interior, and advanced navigation systems for outdoor enthusiasts.",
+      "location": "Denver, CO",
+      "price": 95,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "20 MPG",
+      "year": 2023,
+      "company": {
+        "name": "Rocky Rentals",
+        "description": "Rocky Rentals specializes in rugged SUVs and vehicles for adventure and outdoor trips.",
+        "contactEmail": "contact@rockyrentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Volkswagen Golf",
+      "type": "Hatchback",
+      "transmission": "Manual",
+      "description": "Compact hatchback with agile handling and modern interior. Ideal for city driving, weekend trips, and easy parking.",
+      "location": "San Diego, CA",
+      "price": 55,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "30 MPG",
+      "year": 2021,
+      "company": {
+        "name": "Sunny Rentals",
+        "description": "Sunny Rentals offers compact and versatile hatchbacks for efficient city travel.",
+        "contactEmail": "contact@sunnyrentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Kia Niro",
+      "type": "Electric",
+      "transmission": "Automatic",
+      "description": "Compact electric SUV with modern infotainment, excellent range, and eco-friendly performance. Great for city and suburban travel.",
+      "location": "Austin, TX",
+      "price": 80,
+      "fuel": "Electric",
+      "seats": 5,
+      "mileage": "105 MPGe",
+      "year": 2023,
+      "company": {
+        "name": "Lone Star Rentals",
+        "description": "Lone Star Rentals specializes in electric and hybrid vehicles for sustainable driving in Texas.",
+        "contactEmail": "contact@lonestarrentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Jaguar XF",
+      "type": "Luxury",
+      "transmission": "Automatic",
+      "description": "Luxury sedan with premium leather interiors, advanced safety features, and a smooth, quiet ride. Perfect for executive travel and long-distance journeys.",
+      "location": "Los Angeles, CA",
+      "price": 170,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "22 MPG",
+      "year": 2023,
+      "company": {
+        "name": "LA Elite Rentals",
+        "description": "LA Elite Rentals offers top-tier luxury vehicles for high-end travel experiences in Los Angeles.",
+        "contactEmail": "contact@laeliterentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Mazda CX-5",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "description": "Stylish and comfortable SUV with smooth handling, safety features, and spacious cargo room. Ideal for family trips or weekend getaways.",
+      "location": "Orlando, FL",
+      "price": 85,
+      "fuel": "Petrol",
+      "seats": 5,
+      "mileage": "26 MPG",
+      "year": 2022,
+      "company": {
+        "name": "Sunshine Rentals",
+        "description": "Sunshine Rentals offers reliable SUVs and family vehicles with excellent customer service.",
+        "contactEmail": "contact@sunshinerentals.com",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
+}
